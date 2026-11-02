@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SheetSnap</string>
+    <string name="tagline">Paper Tables &amp; Itemized Lists to Editable Excel &amp; CSV</string>
+    <string name="nav_vault">Scans</string>
+    <string name="nav_camera">Scanner</string>
+    <string name="nav_editor">Workbench</string>
+    <string name="nav_export">Export Hub</string>
+    <string name="scan_new_paper">Scan Physical Paper</string>
+    <string name="pick_photo_from_gallery">Import Paper Photo</string>
+    <string name="camera_permission_title">Camera Access Required</string>
+    <string name="camera_permission_rationale">Grant camera permission to detect printed tables, invoices, and itemized lists on physical paper in real time.</string>
+    <string name="grant_camera_permission">Enable Camera</string>
+    <string name="capture_and_extract">Capture &amp; Extract Grid</string>
+    <string name="export_xlsx">Export .XLSX</string>
+    <string name="export_csv">Export .CSV</string>
+    <string name="send_whatsapp">Send to WhatsApp</string>
+    <string name="save_cloud_storage">Save to Cloud Storage</string>
+    <string name="share_anywhere">Share to Drive / Apps</string>
+    <string name="add_row">Add Row</string>
+    <string name="add_column">Add Column</string>
+    <string name="unit_detection_summary">Detected Numerical Units</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "SheetSnap",
+  "description": "AI camera scanner that detects tables and itemized lists on physical paper, extracts rows, columns, and numerical units, and exports editable .xlsx and .csv files to cloud storage or WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
